@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0468F9FC-AD52-4F32-8F7C-1337CE525E85}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="AndroidDatePicker/Activity1.cs" Line="32" Column="1" />
+      <File FileName="AndroidDatePicker/Properties/AndroidManifest.xml" Line="6" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/PFJ/Developer/AndroidDatePicker/AndroidDatePicker/Activity1.cs" relfile="AndroidDatePicker/Activity1.cs" line="32" column="53" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AndroidDatePicker PreferredExecutionTarget="Android.192.168.69.101:5555" />
+  <MultiItemStartupConfigurations />
+</Properties>
